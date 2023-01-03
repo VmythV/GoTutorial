@@ -14,6 +14,7 @@ import (
 )
 
 func main() {
+	// 增加种子，使其随机
 	rand.Seed(time.Now().Unix())
 	var num = rand.Intn(10) + 1
 	fmt.Println(num)
