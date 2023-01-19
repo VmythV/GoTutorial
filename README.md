@@ -11,5 +11,6 @@
 8. [large_number.go](start/large_number.go)
 9. [text.go](start/text.go)
 10. [convert.go](start/convert.go)
+11. [function.go](start/function.go)
 
 
