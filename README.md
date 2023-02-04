@@ -12,5 +12,6 @@
 9. [text.go](start/text.go)
 10. [convert.go](start/convert.go)
 11. [function.go](start/function.go)
+12. [method.go](start/method.go)
 
 
