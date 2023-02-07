@@ -14,6 +14,3 @@
 11. [function.go](start/function.go)
 12. [method.go](start/method.go)
 
-
-
-
