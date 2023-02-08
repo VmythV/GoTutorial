@@ -1,6 +1,7 @@
 # GoTutorial
 
 ## start
+> https://www.bilibili.com/video/BV1fD4y1m7TD/
 1. [main.go](start/main.go)
 2. [mars.go](start/mars.go)
 3. [guess_game.go](start/guess_game.go)
