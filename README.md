@@ -14,4 +14,6 @@
 10. [convert.go](start/convert.go)
 11. [function.go](start/function.go)
 12. [method.go](start/method.go)
-
+13. [first_order_function1.go](start/first_order_function1.go)
+14. [first_order_function2.go](start/first_order_function2.go)
+15. [closures_and_anonymous_functions.go](start/closures_and_anonymous_functions.go)
