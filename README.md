@@ -18,3 +18,4 @@
 14. [first_order_function2.go](start/first_order_function2.go)
 15. [closures_and_anonymous_functions.go](start/closures_and_anonymous_functions.go)
 16. [array.go](start/array.go)
+17. [slice.go](start/slice.go)
