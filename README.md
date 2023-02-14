@@ -44,3 +44,4 @@
 16. [array.go](start/array.go)
 17. [slice.go](start/slice.go)
 18. [large_slice.go](start/large_slice.go)
+19. [map.go](start/map.go)
