@@ -47,5 +47,5 @@
 19. [map.go](start/map.go)
 20. [struct.go](start/struct.go)
 21. [composition_and_forwarding.go](start/composition_and_forwarding.go)
-
-
+22. [Interface.go](start/interface.go)
+23. [pointer.go](start/pointer.go)
