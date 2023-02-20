@@ -49,3 +49,4 @@
 21. [composition_and_forwarding.go](start/composition_and_forwarding.go)
 22. [Interface.go](start/interface.go)
 23. [pointer.go](start/pointer.go)
+24. [pointer2.go](start/pointer2.go)
