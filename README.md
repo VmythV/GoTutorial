@@ -51,4 +51,4 @@
 23. [pointer.go](start/pointer.go)
 24. [pointer2.go](start/pointer2.go)
 25. [nil.go](start/nil.go)
-
+26. [error_handling.go](start/error_handling.go)
