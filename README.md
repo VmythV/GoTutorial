@@ -54,6 +54,8 @@
 26. [error_handling.go](start/error_handling.go)
 27. [goroutine.go](start/goroutine.go)
 28. [channel.go](start/channel.go)
+29. [blocking_and_deadlock.go](start/blocking_and_deadlock.go)
+30. [concurrency_status.go](start/concurrency_status.go)
 
 
 
