@@ -57,6 +57,11 @@
 29. [blocking_and_deadlock.go](start/blocking_and_deadlock.go)
 30. [concurrency_status.go](start/concurrency_status.go)
 
+## start2
+1. [hello.go](start2/hello.go)
+2. [test2_const.go](start2/test2_const.go)
+3. [test3-function.go](start2/test3-function.go)
+
 
 
 
