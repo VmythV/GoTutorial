@@ -59,9 +59,10 @@
 
 ## start2
 1. [hello.go](start2/hello.go)
-2. [test2_const.go](start2/test2_const.go)
-3. [test3-function.go](start2/test3-function.go)
+2. [test3_const.go](start2/test3_const.go)
+3. [test4-function.go](start2/test4-function.go)
 
+![Go执行流程](attachment/go-execution-process.png)
 
 
 
