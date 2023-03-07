@@ -64,8 +64,9 @@
 
 ![Go执行流程](attachment/go-execution-process.png)
 
-
-
-## start2
+4. [test4-function.go](start2/test4-function.go)
+5. [5-init](start2/5-init)
+6. [6-pointer](start2/6-pointer)
+7. [7-defer](start2/7-defer)
 
 
