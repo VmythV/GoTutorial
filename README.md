@@ -69,5 +69,6 @@
 6. [6-pointer](start2/6-pointer)
 7. [7-defer](start2/7-defer)
 8. [8-slice](start2/8-slice)
+![img.png](attachment/slice_cap.png)
 
 
