@@ -71,11 +71,7 @@
 8. [8-slice](start2/8-slice)
 ![img.png](attachment/slice_cap.png)
 
-
-
-
-
-
+   
 
 ## go-example
 > https://gobyexample.com/
