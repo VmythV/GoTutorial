@@ -79,6 +79,7 @@
 study some go example
 
 1. hello world
+2. value
 
 
 
