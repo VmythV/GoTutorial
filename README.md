@@ -83,8 +83,3 @@ study some go example
 
 
 
-
-
-
-
-
