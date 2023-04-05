@@ -80,6 +80,15 @@ study some go example
 
 1. hello world
 2. value
+3. variables
+4. constants
+5. for
+6. if else
+7. switch
+8. arrays
+9. slices
+10. maps
+
 
 
 
