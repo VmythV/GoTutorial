@@ -88,6 +88,10 @@ study some go example
 8. arrays
 9. slices
 10. maps
+11. range
+12. functions
+13. multiple_return_values
+14. variadic_functions
 
 
 
