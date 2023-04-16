@@ -92,6 +92,7 @@ study some go example
 12. functions
 13. multiple_return_values
 14. variadic_functions
+15. closures.go
 
 
 
